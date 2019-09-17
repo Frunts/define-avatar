@@ -1,0 +1,17 @@
+{
+    "name": "fxp/laravel-avatar",
+    "description": "laravel avatar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FenXianpenG3",
+            "email": "17634295626@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fxp\\Avatar\\": "src"
+        }
+    },
+    "require": {}
+}
